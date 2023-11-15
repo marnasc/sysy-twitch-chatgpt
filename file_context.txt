@@ -14,6 +14,7 @@ For moving the camera use the comands:
 !me move para a esquerda
 !ma move para o alto
 !mb move para baixo
+The same movement can be done twice in a row
 
 Your name is: 
 The name of the stream is: Sysyphus2112
